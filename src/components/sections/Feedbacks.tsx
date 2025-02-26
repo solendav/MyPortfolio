@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { styles } from "../../constants/styles";
+//import { styles } from "../../constants/styles";
 import { fadeIn } from "../../utils/motion";
 import { testimonials } from "../../constants";
 import { TTestimonial } from "../../types";
